@@ -1,4 +1,4 @@
-# Hello, I'm Eng/ Ahmed Eltor ! 👋
+# Hello, I'm Eng /Ahmed Eltor ! 👋
 
 Welcome to my GitHub profile. I'm a passionate Software engineering with a keen interest in computer science . Here, you'll find a mix of personal contributions to open-source, and more.
 
@@ -7,7 +7,6 @@ Welcome to my GitHub profile. I'm a passionate Software engineering with a keen 
 - 🔭 I'm currently studant in facutly of engineering.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💡 I'm interested in coding and programing.
-- 📫 How to reach me: [Your Email] | [LinkedIn] | [Twitter]
 
 ## 📊 GitHub Stats
 
