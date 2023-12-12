@@ -1,16 +1,17 @@
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+
+<!-- https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif -->
+<!-- https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif -->
+
 # Hello, I'm Eng /Ahmed Eltor ! 👋
 
 Welcome to my GitHub profile. I'm a passionate Software engineering with a keen interest in computer science . Here, you'll find a mix of personal contributions to open-source, and more.
 
-## 🚀 Quick Overview
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Quick Overview
 
 - 🔭 I'm currently studant in facutly of engineering.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💡 I'm interested in coding and programing.
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
 🛠**Tech Stack**
 
@@ -37,6 +38,8 @@ Welcome to my GitHub profile. I'm a passionate Software engineering with a keen 
 
 ## 🎉 Thanks for visiting!
 
-Feel free to explore my projects and repositories. If you find anything interesting or if you have any questions, feel free to reach out.
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
 
 Happy coding! 🚀
